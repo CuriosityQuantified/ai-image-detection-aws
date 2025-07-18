@@ -1,0 +1,27 @@
+# Core ML dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+
+# AWS dependencies
+boto3>=1.26.0
+sagemaker>=2.150.0
+
+# Monitoring and experiments
+wandb>=0.15.0
+tensorboard>=2.13.0
+
+# Data processing
+Pillow>=9.5.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+click>=8.1.0
+
+# Testing
+pytest>=7.3.0
+pytest-cov>=4.1.0
